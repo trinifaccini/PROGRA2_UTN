@@ -1,0 +1,11 @@
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\bin\Debug\net6.0\Deportes.deps.json
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\bin\Debug\net6.0\Deportes.dll
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\bin\Debug\net6.0\Deportes.pdb
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\Deportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\Deportes.AssemblyInfoInputs.cache
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\Deportes.AssemblyInfo.cs
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\Deportes.csproj.CoreCompileInputs.cache
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\Deportes.dll
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\refint\Deportes.dll
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\Deportes.pdb
+C:\Users\trinifaccini\source\repos\Deportes\Deportes\obj\Debug\net6.0\ref\Deportes.dll

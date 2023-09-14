@@ -1,0 +1,16 @@
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.Descuento.resources
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.csproj.GenerateResource.cache
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.AssemblyInfoInputs.cache
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.AssemblyInfo.cs
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.csproj.CoreCompileInputs.cache
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\bin\Debug\net6.0-windows\DescuentoPorCompra.exe
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\bin\Debug\net6.0-windows\DescuentoPorCompra.deps.json
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\bin\Debug\net6.0-windows\DescuentoPorCompra.runtimeconfig.json
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\bin\Debug\net6.0-windows\DescuentoPorCompra.dll
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\bin\Debug\net6.0-windows\DescuentoPorCompra.pdb
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.dll
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\refint\DescuentoPorCompra.dll
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.pdb
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\DescuentoPorCompra.genruntimeconfig.cache
+C:\Users\trinifaccini\source\repos\DescuentoPorCompra\DescuentoPorCompra\obj\Debug\net6.0-windows\ref\DescuentoPorCompra.dll
