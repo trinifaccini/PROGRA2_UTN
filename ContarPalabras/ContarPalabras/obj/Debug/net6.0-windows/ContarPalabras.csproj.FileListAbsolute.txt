@@ -1,0 +1,16 @@
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.exe
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.deps.json
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.runtimeconfig.json
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.dll
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\bin\Debug\net6.0-windows\ContarPalabras.pdb
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.ContadorPalabras.resources
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.csproj.GenerateResource.cache
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.AssemblyInfoInputs.cache
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.AssemblyInfo.cs
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.csproj.CoreCompileInputs.cache
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.dll
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\refint\ContarPalabras.dll
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.pdb
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ContarPalabras.genruntimeconfig.cache
+C:\Users\trinifaccini\source\repos\ContarPalabras\ContarPalabras\obj\Debug\net6.0-windows\ref\ContarPalabras.dll

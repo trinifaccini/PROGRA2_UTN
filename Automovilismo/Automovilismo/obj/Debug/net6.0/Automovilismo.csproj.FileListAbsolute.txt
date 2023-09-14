@@ -1,0 +1,11 @@
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\bin\Debug\net6.0\Automovilismo.deps.json
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\bin\Debug\net6.0\Automovilismo.dll
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\bin\Debug\net6.0\Automovilismo.pdb
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\Automovilismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\Automovilismo.AssemblyInfoInputs.cache
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\Automovilismo.AssemblyInfo.cs
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\Automovilismo.csproj.CoreCompileInputs.cache
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\Automovilismo.dll
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\refint\Automovilismo.dll
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\Automovilismo.pdb
+C:\Users\trinifaccini\source\repos\Automovilismo\Automovilismo\obj\Debug\net6.0\ref\Automovilismo.dll
