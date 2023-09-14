@@ -1,0 +1,16 @@
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\bin\Debug\net6.0-windows\OrdenarNumeros.exe
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\bin\Debug\net6.0-windows\OrdenarNumeros.deps.json
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\bin\Debug\net6.0-windows\OrdenarNumeros.runtimeconfig.json
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\bin\Debug\net6.0-windows\OrdenarNumeros.dll
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\bin\Debug\net6.0-windows\OrdenarNumeros.pdb
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.Form1.resources
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.csproj.GenerateResource.cache
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.AssemblyInfoInputs.cache
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.AssemblyInfo.cs
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.dll
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\refint\OrdenarNumeros.dll
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.pdb
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\OrdenarNumeros.genruntimeconfig.cache
+C:\Users\trinifaccini\source\repos\OrdenarNumeros\OrdenarNumeros\obj\Debug\net6.0-windows\ref\OrdenarNumeros.dll
