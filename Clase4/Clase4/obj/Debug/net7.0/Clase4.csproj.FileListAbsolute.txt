@@ -1,0 +1,15 @@
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.csproj.AssemblyReference.cache
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.AssemblyInfoInputs.cache
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.AssemblyInfo.cs
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.csproj.CoreCompileInputs.cache
+/Users/trinifaccini/Projects/Clase4/Clase4/bin/Debug/net7.0/Clase4
+/Users/trinifaccini/Projects/Clase4/Clase4/bin/Debug/net7.0/Clase4.deps.json
+/Users/trinifaccini/Projects/Clase4/Clase4/bin/Debug/net7.0/Clase4.runtimeconfig.json
+/Users/trinifaccini/Projects/Clase4/Clase4/bin/Debug/net7.0/Clase4.dll
+/Users/trinifaccini/Projects/Clase4/Clase4/bin/Debug/net7.0/Clase4.pdb
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.dll
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/refint/Clase4.dll
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.pdb
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/Clase4.genruntimeconfig.cache
+/Users/trinifaccini/Projects/Clase4/Clase4/obj/Debug/net7.0/ref/Clase4.dll

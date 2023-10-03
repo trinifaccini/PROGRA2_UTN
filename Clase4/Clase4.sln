@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4", "Clase4\Clase4.csproj", "{A66D37E9-1DD5-4375-B29A-03524A3C5976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumador", "Sumador\Sumador.csproj", "{19E74D8F-BF01-4D8F-AB3D-2DCB695BBF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioC01", "Cotizador\EjercicioC01.csproj", "{8572D744-0BBB-4252-9B8B-6AB03EDDF27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66D37E9-1DD5-4375-B29A-03524A3C5976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66D37E9-1DD5-4375-B29A-03524A3C5976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66D37E9-1DD5-4375-B29A-03524A3C5976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66D37E9-1DD5-4375-B29A-03524A3C5976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E74D8F-BF01-4D8F-AB3D-2DCB695BBF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E74D8F-BF01-4D8F-AB3D-2DCB695BBF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E74D8F-BF01-4D8F-AB3D-2DCB695BBF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E74D8F-BF01-4D8F-AB3D-2DCB695BBF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8572D744-0BBB-4252-9B8B-6AB03EDDF27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8572D744-0BBB-4252-9B8B-6AB03EDDF27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8572D744-0BBB-4252-9B8B-6AB03EDDF27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8572D744-0BBB-4252-9B8B-6AB03EDDF27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BC3244-6C4B-4D44-B6B8-357F06228C84}
+	EndGlobalSection
+EndGlobal

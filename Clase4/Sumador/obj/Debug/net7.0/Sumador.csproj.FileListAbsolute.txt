@@ -1,0 +1,15 @@
+/Users/trinifaccini/Projects/Clase4/Sumador/bin/Debug/net7.0/Sumador
+/Users/trinifaccini/Projects/Clase4/Sumador/bin/Debug/net7.0/Sumador.deps.json
+/Users/trinifaccini/Projects/Clase4/Sumador/bin/Debug/net7.0/Sumador.runtimeconfig.json
+/Users/trinifaccini/Projects/Clase4/Sumador/bin/Debug/net7.0/Sumador.dll
+/Users/trinifaccini/Projects/Clase4/Sumador/bin/Debug/net7.0/Sumador.pdb
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.csproj.AssemblyReference.cache
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.AssemblyInfoInputs.cache
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.AssemblyInfo.cs
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.csproj.CoreCompileInputs.cache
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.dll
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/refint/Sumador.dll
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.pdb
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/Sumador.genruntimeconfig.cache
+/Users/trinifaccini/Projects/Clase4/Sumador/obj/Debug/net7.0/ref/Sumador.dll
