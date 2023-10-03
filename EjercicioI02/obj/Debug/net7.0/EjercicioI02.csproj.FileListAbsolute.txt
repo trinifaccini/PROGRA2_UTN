@@ -1,0 +1,15 @@
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/bin/Debug/net7.0/EjercicioI02
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/bin/Debug/net7.0/EjercicioI02.deps.json
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/bin/Debug/net7.0/EjercicioI02.runtimeconfig.json
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/bin/Debug/net7.0/EjercicioI02.dll
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/bin/Debug/net7.0/EjercicioI02.pdb
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.csproj.AssemblyReference.cache
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.AssemblyInfoInputs.cache
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.AssemblyInfo.cs
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.csproj.CoreCompileInputs.cache
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.dll
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/refint/EjercicioI02.dll
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.pdb
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/EjercicioI02.genruntimeconfig.cache
+/Users/trinifaccini/Projects/Clase3/EjercicioI02/obj/Debug/net7.0/ref/EjercicioI02.dll
